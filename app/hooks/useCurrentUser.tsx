@@ -1,4 +1,5 @@
 "use client"
+// Loads and caches the current account so separate client components stay in sync.
 import { useEffect, useState } from 'react'
 
 let cachedUser: any | undefined

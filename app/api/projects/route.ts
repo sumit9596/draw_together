@@ -1,3 +1,4 @@
+// Implements authenticated project listing and project CRUD operations.
 import connectToDatabase from '../../../lib/mongoose'
 import Project from '../../../models/Project'
 import File from '../../../models/File'

@@ -1,3 +1,4 @@
+// Guards dashboard navigation before the page is rendered for an unauthenticated visitor.
 import { NextResponse } from 'next/server'
 import type { NextRequest } from 'next/server'
 

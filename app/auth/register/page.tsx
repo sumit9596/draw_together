@@ -1,5 +1,6 @@
 "use client"
 import React, { useState } from 'react'
+// Implements account creation and sends new users into the application flow.
 import Link from 'next/link'
 import { useRouter } from 'next/navigation'
 import { endLoading, startLoading } from '@/components/loadingEvents'

@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+// Provides the shared document shell, fonts, loading indicator, and notifications.
 import { Geist, Geist_Mono } from "next/font/google";
 import { Suspense } from "react";
 import "./globals.css";

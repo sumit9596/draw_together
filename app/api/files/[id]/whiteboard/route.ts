@@ -1,3 +1,4 @@
+// Persists the serialized whiteboard state for one workspace file.
 import connectToDatabase from '@/lib/mongoose'
 import File from '@/models/File'
 

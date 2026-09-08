@@ -1,3 +1,4 @@
+/* Defines global tokens and shared visual rules used throughout the application. */
 @import "tailwindcss";
 @import "tw-animate-css";
 @import "nprogress/nprogress.css";

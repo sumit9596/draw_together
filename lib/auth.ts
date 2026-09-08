@@ -1,3 +1,4 @@
+// Verifies the request cookie and resolves the authenticated user for protected APIs.
 import jwt from 'jsonwebtoken'
 import connectToDatabase from './mongoose'
 

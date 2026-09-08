@@ -1,3 +1,4 @@
+// Wraps Radix dialog primitives with the project's shared modal styling.
 "use client"
 
 import * as React from "react"

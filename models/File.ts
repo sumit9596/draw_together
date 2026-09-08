@@ -1,3 +1,4 @@
+// Defines persisted document and whiteboard content belonging to a workspace.
 import mongoose, { Schema, model, models } from 'mongoose'
 
 const FileSchema = new Schema({

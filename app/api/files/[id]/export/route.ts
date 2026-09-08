@@ -1,3 +1,4 @@
+// Converts stored document content into a downloadable PDF export.
 import connectToDatabase from '@/lib/mongoose'
 import File from '@/models/File'
 

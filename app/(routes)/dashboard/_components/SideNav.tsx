@@ -1,3 +1,4 @@
+// Provides the dashboard navigation links for moving between workspace areas.
 import React from 'react'
 import { useRouter } from 'next/navigation'
 

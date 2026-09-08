@@ -1,4 +1,5 @@
 "use client"
+// Provides the primary navigation and account actions shared by public pages.
 import Link from 'next/link'
 import { useRouter } from 'next/navigation'
 import useCurrentUser from '@/app/hooks/useCurrentUser'

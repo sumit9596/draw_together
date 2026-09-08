@@ -1,3 +1,4 @@
+// Defines project ownership and naming so dashboard projects can be stored consistently.
 import mongoose, { Schema, model, models } from 'mongoose'
 
 const ProjectSchema = new Schema({

@@ -1,3 +1,4 @@
+// Describes the intended start-to-finish path through projects and the workspace.
 import Link from 'next/link'
 import Header from '@/app/_components/Header'
 

@@ -1,3 +1,4 @@
+// Declares project-specific ambient types that TypeScript cannot infer from packages.
 declare module 'bcryptjs'
 declare module 'jsonwebtoken'
 declare module 'pdfkit'

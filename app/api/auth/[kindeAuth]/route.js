@@ -1,3 +1,4 @@
+// Provides the Kinde authentication route integration used by the auth flow.
 import { NextResponse } from "next/server";
 
 export async function GET(request, { params }) {

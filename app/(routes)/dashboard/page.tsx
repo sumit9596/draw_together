@@ -1,3 +1,4 @@
+// Renders the dashboard entry screen where users manage their projects.
 "use client"
 
 

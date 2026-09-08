@@ -1,4 +1,5 @@
 "use client"
+// Provides a consistent horizontal or vertical visual divider for UI sections.
 
 import * as React from "react"
 import * as SeparatorPrimitive from "@radix-ui/react-separator"

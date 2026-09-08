@@ -1,3 +1,4 @@
+// Clears the authentication cookie so the current session ends cleanly.
 import { NextRequest, NextResponse } from 'next/server'
 
 export async function POST(req: NextRequest) {

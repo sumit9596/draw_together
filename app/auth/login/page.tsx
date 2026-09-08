@@ -1,5 +1,6 @@
 "use client"
 import React, { Suspense, useState } from 'react'
+// Implements the sign-in form and starts the authenticated session.
 import Link from 'next/link'
 import { useSearchParams } from 'next/navigation'
 import { endLoading, startLoading } from '@/components/loadingEvents'

@@ -1,3 +1,4 @@
+// Defines the database shape for accounts used by authentication and ownership checks.
 import mongoose, { Schema, model, models } from 'mongoose'
 
 const UserSchema = new Schema({

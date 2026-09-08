@@ -1,3 +1,4 @@
+// Lets users resize adjacent workspace panels without coupling their layout logic.
 "use client";
 import React, { useState, useRef, useEffect } from 'react';
 

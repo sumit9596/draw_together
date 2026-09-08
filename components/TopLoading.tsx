@@ -1,4 +1,5 @@
 "use client";
+// Turns route changes and async navigation events into a visible top progress bar.
 
 import { useEffect, useRef } from "react";
 import { usePathname, useSearchParams } from "next/navigation";

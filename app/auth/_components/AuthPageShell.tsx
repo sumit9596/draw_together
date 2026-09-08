@@ -1,3 +1,4 @@
+// Keeps login and registration pages visually consistent while supplying page-specific content.
 import Link from 'next/link'
 import type { ReactNode } from 'react'
 

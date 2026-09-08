@@ -1,3 +1,4 @@
+// Loads a file workspace and supplies a usable placeholder when persistence is unavailable.
 import connectToDatabase from '@/lib/mongoose'
 import File from '@/models/File'
 import Project from '@/models/Project'

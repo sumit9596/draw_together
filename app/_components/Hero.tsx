@@ -1,4 +1,5 @@
 "use client"
+// Introduces the product and gives visitors a direct path into an anonymous workspace.
 import Link from 'next/link'
 import { ArrowRight, Sparkles, Wand2 } from 'lucide-react'
 import { useRouter } from 'next/navigation'

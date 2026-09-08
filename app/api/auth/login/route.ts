@@ -1,3 +1,4 @@
+// Authenticates credentials and sets the session cookie for a returning user.
 import connectToDatabase from '../../../../lib/mongoose'
 import User from '../../../../models/User'
 // @ts-ignore - bcryptjs has no bundled types in this project

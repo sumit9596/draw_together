@@ -1,3 +1,4 @@
+// Validates new account details, stores the user, and starts an authenticated session.
 import connectToDatabase from '../../../../lib/mongoose'
 import User from '../../../../models/User'
 // @ts-ignore - bcryptjs has no bundled types in this project

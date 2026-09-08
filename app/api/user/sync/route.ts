@@ -1,3 +1,4 @@
+// Synchronizes the signed-in user's profile with the local application database.
 import connectToDatabase from '../../../../lib/mongoose'
 import User from '../../../../models/User'
 

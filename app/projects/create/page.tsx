@@ -1,3 +1,4 @@
+// Collects a project name and creates the first persistent workspace for a user.
 "use client"
 import React, { useState } from 'react'
 import { useRouter } from 'next/navigation'

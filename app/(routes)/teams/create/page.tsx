@@ -1,3 +1,4 @@
+// Provides the fallback setup screen when an account has no project to open yet.
 "use client"
 import { useEffect } from 'react'
 import { useRouter } from 'next/navigation'

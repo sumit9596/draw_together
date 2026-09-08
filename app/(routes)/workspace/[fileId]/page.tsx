@@ -1,3 +1,4 @@
+// Loads one project and coordinates its document editor and whiteboard workspace.
 "use client";
 import React, { useEffect, useState } from 'react'
 import { useParams } from 'next/navigation'

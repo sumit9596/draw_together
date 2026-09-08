@@ -1,3 +1,4 @@
+// Hosts the visual whiteboard and persists drawing changes for the active file.
 import dynamic from "next/dynamic";
 import "@excalidraw/excalidraw/index.css";
 import { FILE } from "../../dashboard/_components/FilesList";

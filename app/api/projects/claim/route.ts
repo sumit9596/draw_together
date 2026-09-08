@@ -1,3 +1,4 @@
+// Converts an anonymous workspace into an owned project after sign-in.
 import connectToDatabase from '@/lib/mongoose'
 import Project from '@/models/Project'
 import File from '@/models/File'

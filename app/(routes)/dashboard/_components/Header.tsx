@@ -1,3 +1,4 @@
+// Defines dashboard-specific header controls for navigating the project area.
 "use client"
 import Link from 'next/link'
 import React from 'react'

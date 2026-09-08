@@ -1,4 +1,5 @@
 "use client";
+// Protects the dashboard view and loads its projects into shared client state.
 import useCurrentUser from '@/app/hooks/useCurrentUser'
 import { useRouter } from 'next/navigation';
 import React, { useEffect, useState } from 'react'

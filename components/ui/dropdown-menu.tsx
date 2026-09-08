@@ -1,4 +1,5 @@
 "use client"
+// Wraps Radix dropdown primitives into reusable styled menu components.
 
 import * as React from "react"
 import * as DropdownMenuPrimitive from "@radix-ui/react-dropdown-menu"

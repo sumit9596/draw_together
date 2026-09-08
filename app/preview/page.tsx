@@ -1,3 +1,4 @@
+// Shows a visual product preview and the main workflow before users open a workspace.
 import Link from 'next/link'
 import Header from '@/app/_components/Header'
 

@@ -1,3 +1,4 @@
+// Explains the product capabilities so visitors can understand the workspace before using it.
 import Link from 'next/link'
 import Header from '@/app/_components/Header'
 

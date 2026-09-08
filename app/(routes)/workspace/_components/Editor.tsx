@@ -1,4 +1,5 @@
 "use client";
+// Provides rich-text editing and saves the document content for the active file.
 import React, { useRef } from 'react'
 import EditorJs from '@editorjs/editorjs';
 import { useEffect } from 'react';

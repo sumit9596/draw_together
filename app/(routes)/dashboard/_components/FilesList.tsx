@@ -1,3 +1,4 @@
+// Displays project records and handles opening, renaming, and deleting them.
 import { FileListContext } from '@/app/_context/FilesListContext';
 import React, { useContext, useEffect, useState } from 'react'
 import moment from 'moment';

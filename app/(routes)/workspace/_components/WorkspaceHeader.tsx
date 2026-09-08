@@ -1,3 +1,4 @@
+// Provides workspace actions such as saving, exporting, and returning to the dashboard.
 import { Button } from '@/components/ui/button'
 import { LayoutDashboard, Save } from 'lucide-react'
 import { useRouter } from 'next/navigation'

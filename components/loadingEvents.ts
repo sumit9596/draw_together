@@ -1,3 +1,4 @@
+// Coordinates loading start and end events used by the global progress indicator.
 export const LOADING_START_EVENT = 'drawtogether:loading-start';
 export const LOADING_END_EVENT = 'drawtogether:loading-end';
 
