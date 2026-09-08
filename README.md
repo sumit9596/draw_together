@@ -4,6 +4,8 @@
 
 Collaborative workspace for projects, documents, files, and whiteboards.
 
+[Open the live app](https://draw-together-fcg15va7h-kumarsumit9596-gmailcoms-projects.vercel.app)
+
 </div>
 
 ## Overview
